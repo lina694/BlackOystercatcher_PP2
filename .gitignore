@@ -1,2 +1,7 @@
-.idea/ 
-.pytest_cache/ 
+.idea/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.csv.bak
+oystercatcher_data_*.csv
+.gitignoregit

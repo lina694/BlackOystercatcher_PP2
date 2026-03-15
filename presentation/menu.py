@@ -2,7 +2,7 @@
 Author: Felgine Touko Lina
 Course: CST8002 - Programming Language Research
 Professor: Stanley Pieda
-Due Date: 02-22-2026
+Due Date: 03-29-2026
 
 This module handles all user interaction including menu display, input collection,
 and output formatting. NO business logic or file I/O is performed here.

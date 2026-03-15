@@ -1,8 +1,8 @@
 """
 Author: Felgine Touko Lina
 Course: CST8002 - Programming Language Research
-Professor: [PROFESSOR NAME]
-Due Date: [DUE DATE]
+Professor: Stanley Pieda
+Due Date: 03-29-2026
 Description: Unit tests for DataManager business layer.
              Carried forward from Practical Project Part 2 to verify
              no regression was introduced when adding the GUI layer.
