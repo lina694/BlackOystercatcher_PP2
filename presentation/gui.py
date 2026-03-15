@@ -78,7 +78,7 @@ class GUI:
             f"Black Oystercatcher Data Management System "
             f"- {self.student_name}"
         )
-        self.root.geometry("1000x620")
+        self.root.geometry("1100x650")
         self.root.resizable(True, True)
         self.root.configure(bg="#f0f4f8")
 
