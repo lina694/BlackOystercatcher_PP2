@@ -48,6 +48,7 @@ def main():
 
     # Create Tkinter root window
     root = tk.Tk()
+    root.minsize(800, 500)
 
     # Initialize GUI presentation layer (new in PP3)
     GUI(root, data_manager, STUDENT_NAME)
