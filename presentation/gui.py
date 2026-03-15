@@ -78,7 +78,7 @@ class GUI:
             f"Black Oystercatcher Data Management System "
             f"- {self.student_name}"
         )
-        self.root.geometry("1100x650")
+        self.root.geometry("1000x620")
         self.root.resizable(True, True)
         self.root.configure(bg="#f0f4f8")
 
@@ -213,7 +213,7 @@ class GUI:
         status_frame = tk.Frame(self.root, bg="#2E4057", pady=4)
         status_frame.pack(fill=tk.X, side=tk.BOTTOM)
 
-        self.status_var = tk.StringVar(value="Ready.")
+        self.status_var = tk.StringVar(value="Ready. - Felgine Touko Lina")
         tk.Label(
             status_frame,
             textvariable=self.status_var,
